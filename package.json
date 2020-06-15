@@ -1,0 +1,12 @@
+{
+  "name": "myfreemem",
+  "version": "1.0.0",
+  "description": "FreeMem App",
+  "main": "stats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node stats.js"
+  },
+  "author": "Parmex",
+  "license": "ISC"
+}
